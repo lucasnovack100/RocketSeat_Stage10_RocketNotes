@@ -2,7 +2,7 @@ import { FiPlus, FiSearch } from "react-icons/fi";
 import { useNavigate } from "react-router-dom";
 
 import { useState, useEffect } from "react";
-import { api } from "../../../../../10/Api/src/services/api";
+import { api } from "../../services/api";
 
 import { Container, Brand, Menu, Search, Content, NewNote } from "./styles";
 

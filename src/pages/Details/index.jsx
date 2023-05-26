@@ -9,7 +9,7 @@ import { ButtonText } from '../../components/ButtonText';
 
 import { useState, useEffect } from "react";
 
-import { api } from "../../../../../10/Api/src/services/api";
+import { api } from "../../services/api";
 
 
 export function Details() {

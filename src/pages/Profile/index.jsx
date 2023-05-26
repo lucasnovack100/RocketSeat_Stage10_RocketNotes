@@ -5,7 +5,7 @@ import { Container, Form, Avatar } from "./styles";
 import { FiArrowLeft, FiUser, FiMail, FiLock, FiCamera } from "react-icons/fi";
 
 import  avatarPlaceholder  from "../../assets/avatar_placeholder.svg";
-import { api } from "../../../../../10/Api/src/services/api";
+import { api } from "../../services/api";
 
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";

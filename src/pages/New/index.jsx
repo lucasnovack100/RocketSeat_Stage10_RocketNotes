@@ -10,7 +10,7 @@ import { Input } from "../../components/Input";
 
 import { Container, Form } from "./styles";
 
-import { api } from "../../../../../10/Api/src/services/api";
+import { api } from "../../services/api";
 import { useNavigate } from "react-router-dom";
 
 

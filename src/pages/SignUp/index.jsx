@@ -4,7 +4,7 @@ import { Container, Form, Background } from "./styles";
 
 import { Link, useNavigate } from "react-router-dom";
 
-import { api } from "../../../../../10/Api/src/services/api";
+import { api } from "../../services/api";
 
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
